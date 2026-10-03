@@ -1,0 +1,6 @@
+{
+  "name": "Nova Studio",
+  "description": "Global AI-Powered Mobile App Creator Platform with Live Interactive Sandbox, Tier-1 Global Cloud Server Nodes, and Instant $5 Multi-Platform Publishing to Google Play, App Store, and Web",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
